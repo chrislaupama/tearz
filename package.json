@@ -3,6 +3,7 @@
     "publisher": "Tearz",
     "displayName": "Tearz",
     "description": "Tearz Dark Color Theme",
+    "icon": "themes/icon.png",
     "version": "0.0.1",
     "repository": {
         "type": "git",
